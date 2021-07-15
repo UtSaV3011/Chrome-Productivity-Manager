@@ -1,0 +1,59 @@
+body{
+    border-style: initial;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    width: 300px;
+    height: 300px;
+}
+#settime{
+    text-align: center;
+    border-radius: 10px;
+    height: 20px;
+}
+#pOne {
+    text-align: center;
+    font-size: large;
+    font-family: cursive;
+}
+#pTwo{
+    text-align: center;
+    font-family: cursive;
+    font-size: large
+    ;
+}
+#countdown{
+    margin-top: 20px;
+}
+#startCountdown,#settimebtn{
+    background-color: rgb(148, 82, 36);
+    border: none;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+    margin: 4px 2px; 
+    cursor: pointer;
+    border-radius: 10px;
+}
+#countdowntxt{
+    text-align: center;
+    border-radius: 10px;
+    height: 20px;
+    width: 140px;
+}
+#todoList, #block {
+    background-color: rgb(148, 82, 36);
+    border: none;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+#pThree{
+    text-align: center;
+}
+#pFour{
+    
+    text-align: center;
+}
